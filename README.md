@@ -27,5 +27,5 @@ This project uses the following fonts:
 
 Both fonts are provided by [Google Fonts](https://fonts.google.com/) and are distributed under the **SIL Open Font License, Version 1.1**.
 
-Copies of the licenses are included in the [`source/Resources/Fonts/Licenses/`](./source/Resources/Fonts/Licenses) directory.
+Copies of the licenses are included in the [`source/blog.fonts/Resources/Fonts/Licenses/`](./source/blog.fonts/Resources/Fonts/Licenses) directory.
 
