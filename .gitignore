@@ -1,0 +1,79 @@
+# Visual Studio / .NET
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+**/bin/
+**/obj/
+Debug/
+Release/
+
+# Rider / JetBrains
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+project.assets.json
+project.nuget.cache
+
+# Dotnet caches and logs
+.dotnet/
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.Designer.cs
+*.g.cs
+*.g.i.cs
+*.Generated.cs
+GeneratedCode/
+
+# User-specific
+*.csproj.user
+*.userprefs
+
+# MAUI / Xamarin / platform-specific artifacts
+# iOS / MacCatalyst
+*.app
+*.ipa
+*.dSYM
+*.app.dSYM
+**/iossimulator-*/
+**/maccatalyst-*/
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+# Android
+*.apk
+*.aab
+*.keystore
+*.jks
+.gradle/
+local.properties
+
+# Tizen
+*.tpk
+
+# MAUI build helpers and intermediate files
+mauifont.*
+mauiimage.*
+mauisplash.*
+
+# Package manager folders
+node_modules/
+
+# Misc
+*.db
