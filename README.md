@@ -1,4 +1,4 @@
-# blog.fonts
+# Deep Dive: How to Integrate Google Fonts in .NET MAUI
 
 A small .NET MAUI sample that accompanies the Grial blog post "Deep Dive: How to Integrate Google Fonts in .NET MAUI". The project demonstrates how to include and register custom fonts in a MAUI app and contains example font files under `Resources/Fonts`.
 
@@ -27,5 +27,5 @@ This project uses the following fonts:
 
 Both fonts are provided by [Google Fonts](https://fonts.google.com/) and are distributed under the **SIL Open Font License, Version 1.1**.
 
-Copies of the licenses are included in the [`Resources/Fonts/Licenses/`](./Resources/Fonts/Licenses) directory.
+Copies of the licenses are included in the [`source/Resources/Fonts/Licenses/`](./source/Resources/Fonts/Licenses) directory.
 
